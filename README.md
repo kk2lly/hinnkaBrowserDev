@@ -1,3 +1,9 @@
+INFO:
+
+[-] hinnkaBrowser project will end on 04.01.2026 (NOT DEV ONE) [-] 
+
+------------------
+
 # Most Fun Portable Private Browser For Developers
 
 # Some Features Will Release Before Normal Version
